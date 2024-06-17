@@ -1,5 +1,5 @@
 {
-  "name": "@warren-bank/webpack-import-map-plugin",
+  "name": "@guidi/webpack-import-map-plugin",
   "version": "1.0.0-alpha1",
   "description": "A webpack plugin to help generate import maps for outputted entry files, based on webpack-manifest-plugin",
   "main": "./src/plugin.js",
@@ -32,7 +32,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zleight1/webpack-import-map-plugin.git"
+    "url": "git+https://github.com/guidi/webpack-import-map-plugin.git"
   },
   "keywords": [
     "webpack-import-map-plugin",
@@ -44,12 +44,12 @@
     "import-maps",
     "importmaps"
   ],
-  "author": "Zachary Charles Leighton <zleight1@gmail.com>",
+  "author": "Vanderson Guidi <vando.lg@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zleight1/webpack-import-map-plugin/issues"
+    "url": "https://github.com/guidi/webpack-import-map-plugin/issues"
   },
-  "homepage": "https://github.com/zleight1/webpack-import-map-plugin#readme",
+  "homepage": "https://github.com/guidi/webpack-import-map-plugin#readme",
   "devDependencies": {
     "eslint": "7.7.0",
     "eslint-config-standard": "14.1.1",
