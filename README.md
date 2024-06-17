@@ -26,7 +26,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Webpack Import-Map Plugin</h3>
+  <h3 align="center">Webpack Import-Map Plugin - Forked from https://github.com/tipalti/webpack-import-map-plugin</h3>
 
   <p align="center">
     A plugin for Webpack to generate an import-map for bundled & emitted files. Heavily based on <a href="https://github.com/danethurber/webpack-manifest-plugin" target="_blank">webpack-manifest-plugin</a>.

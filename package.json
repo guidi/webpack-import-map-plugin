@@ -1,5 +1,5 @@
 {
-  "name": "@guidi/mxm-webpack5-import-map-plugin",
+  "name": "@mxmarquitetura/mxm-webpack5-import-map-plugin",
   "version": "1.0.0",
   "description": "A webpack plugin to help generate import maps for outputted entry files, based on webpack-manifest-plugin",
   "main": "./src/plugin.js",
